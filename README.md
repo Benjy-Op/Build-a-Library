@@ -1,0 +1,1 @@
+simple intermidiate js project on learning classes methords and inheritance
